@@ -1,8 +1,8 @@
 # Structuring Machine Learning Projects
 
-Course can be found [here](https://www.coursera.org/learn/machine-learning-projects)
+Course can be found in [Coursera](https://www.coursera.org/learn/machine-learning-projects)
 
-Notebook for quick search can be found [here](https://ssq.github.io/2017/08/28/Coursera%20Ng%20Deep%20Learning%20Specialization%20Notebook/#Structuring-Machine-Learning-Projects)
+Quiz and answers are collected for quick search in my blog [SSQ](https://ssq.github.io/2017/08/28/Coursera%20Ng%20Deep%20Learning%20Specialization%20Notebook/#Structuring-Machine-Learning-Projects)
 
 - Week 1 ML Strategy (1)
   - Understand why Machine Learning strategy is important
